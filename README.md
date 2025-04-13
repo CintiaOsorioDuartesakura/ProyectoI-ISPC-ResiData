@@ -15,6 +15,7 @@
 -Historial clínico.
 
 -Estado actual del residente (útil para cambios de turno)
+
 -Enfermedades preexistentes (si las hubiera)
 -Notas de enfermería.
 
