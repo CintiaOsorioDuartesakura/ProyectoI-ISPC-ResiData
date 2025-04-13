@@ -14,8 +14,8 @@
 
 -Historial clínico.
 
--Estado actual del residente (útil para cambios de turno).
-
+-Estado actual del residente (útil para cambios de turno)
+-Enfermedades preexistentes (si las hubiera)
 -Notas de enfermería.
 
 -Registro de medicamentos.
@@ -25,6 +25,7 @@
 -Tipo de dieta asignada.
 
 -Observaciones (de enfermería, asistentes y personal en general).
+-Investigacion de antecedentes penales del personal de la institución especialmente enfermeros y cuidadores diarios
 
 -Registro de pertenencias ingresadas.
 
