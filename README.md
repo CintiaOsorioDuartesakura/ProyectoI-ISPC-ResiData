@@ -38,7 +38,7 @@
 
 ##Miembros del Equipo
 
-Alvarez Conrado
+Alvarez Achaval Conrado
 
 Alejandra Del Valle Kravcho
 
